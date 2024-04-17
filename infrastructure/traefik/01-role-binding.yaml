@@ -10,4 +10,3 @@ roleRef:
 subjects:
   - kind: ServiceAccount
     name: traefik-account
-    namespace: default # This tutorial uses the "default" K8s namespace.
